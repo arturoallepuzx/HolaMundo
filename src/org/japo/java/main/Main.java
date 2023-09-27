@@ -17,7 +17,7 @@ package org.japo.java.main;
 
 /**
  *
- * @author Arturo Allepuz - arturoallepuz@gmail.com
+ * @author Arturo Allepuz - arturoallepuzx@gmail.com
  */
 public class Main {
 
@@ -25,8 +25,8 @@ public class Main {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
-        System.out.println("Hola mundo");
+        String nombre = "arturoallepux";
+        System.out.println("Hola mundo " + nombre);
     }
     
 }
